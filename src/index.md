@@ -7,8 +7,8 @@ metaDesc: 'Pare English Course Tempat kursus bahasa inggris di bandung.'
 socialImage: ''
 ---
 
-![Camp Pare English Course Bandung](/images/bg.jpg "Camp Pare English Course Bandung")
-Ayo mari ketahui tentang program Pare English Course Bandung
+![The top of a grey concrete building with a blue sky in the background](/images/bg.png "Pare English Course.")
+
 
 Kami hadir di kotamu untuk memberikan solusi bagi kalian yang merasa kesusahan untuk menguasai bahasa Inggris dengan cepat dan tepat.
 
