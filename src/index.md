@@ -4,10 +4,10 @@ title: Pare English Course Bandung
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'Pare English Course Tempat kursus bahasa inggris di bandung.'
-socialImage: ''
+socialImage: '/images/bg.png'
 ---
 
-![The top of a grey concrete building with a blue sky in the background](/images/bg.png "Pare English Course.")
+![Pare English Course Tempat kursus bahasa inggris di bandung](/images/bg.png "Pare English Course.")
 
 
 Kami hadir di kotamu untuk memberikan solusi bagi kalian yang merasa kesusahan untuk menguasai bahasa Inggris dengan cepat dan tepat.
